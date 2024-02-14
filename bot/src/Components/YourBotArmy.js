@@ -1,5 +1,5 @@
 import React from "react";
-import BotCard from "./BotCard";
+import BotCard from "./BotCard"
 
 function YourBotArmy({ botBox, remBot, dischargeBot }) {
   return (
